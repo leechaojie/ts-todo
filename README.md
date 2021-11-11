@@ -1,6 +1,6 @@
 # todo待办事项
 
-面线对象实现的todo待办
+面向对象实现的todo待办
 
 ## Project setup
 
